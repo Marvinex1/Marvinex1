@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Chukwuwendu Igbinedion Marvin
-- 👀 I’m interested in working in a IT project team
-- 🌱 I’m currently learning python programming language
-- 💞️ I’m looking to collaborate on software development projects
+- 👋 Hi, I am Chukwuwendu Marvin Igbinedion 
+- 👀 My Interests include working with IT project teams
+- 🌱 I am currently developing my competency in cloud Computing
+- 💞️ I am looking to collaborate on software development projects
 - 📫 You can reach me by sending an email to igbinedionmarvin@gmail.com
 
 <!---
